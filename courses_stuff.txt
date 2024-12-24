@@ -1,1 +1,3 @@
 Particle Physics course for high-school students - https://ppc.web.cern.ch/
+https://pwn.college/ - hacking
+https://www.hackthebox.com/
