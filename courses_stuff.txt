@@ -1,3 +1,5 @@
 Particle Physics course for high-school students - https://ppc.web.cern.ch/
 https://pwn.college/ - hacking
 https://www.hackthebox.com/
+
+splines: https://pages.cs.wisc.edu/~deboor/ https://en.wikipedia.org/wiki/Smoothing_spline
