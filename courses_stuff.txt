@@ -3,3 +3,4 @@ https://pwn.college/ - hacking
 https://www.hackthebox.com/
 
 splines: https://pages.cs.wisc.edu/~deboor/ https://en.wikipedia.org/wiki/Smoothing_spline
+calculus, differential equations: https://en.wikipedia.org/wiki/Michael_Spivak
