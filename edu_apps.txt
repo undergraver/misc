@@ -1,0 +1,14 @@
+https://www.geogebra.org/ - not free for commercial use, mostly web based, but can be used on desktop
+https://en.wikipedia.org/wiki/Kig_(software)
+https://github.com/wxMaxima-developers/wxmaxima - to study more
+https://github.com/parisolab/mathmod
+http://www.gnuplot.info/
+https://www.gnu.org/software/dr-geo/
+https://www.desmos.com/geometry (maybe related to https://github.com/desmosinc)
+
+https://github.com/orgs/Dynamic-Book/repositories - to explore projects
+
+
+
+
+Octave with its plotter

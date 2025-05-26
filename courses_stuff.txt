@@ -4,3 +4,10 @@ https://www.hackthebox.com/
 
 splines: https://pages.cs.wisc.edu/~deboor/ https://en.wikipedia.org/wiki/Smoothing_spline
 calculus, differential equations: https://en.wikipedia.org/wiki/Michael_Spivak
+
+
+From the same site:
+- https://github.com/cirosantilli
+- https://cirosantilli.com/
+- https://ourbigbook.com/
+- https://www.youtube.com/@OurBigBook/videos
