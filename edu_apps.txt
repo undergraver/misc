@@ -11,4 +11,7 @@ https://github.com/orgs/Dynamic-Book/repositories - to explore projects
 
 
 
+
 Octave with its plotter
+
+1. stereograms
